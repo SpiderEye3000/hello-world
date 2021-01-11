@@ -1,2 +1,6 @@
 # hello-world
-Repository
+
+Hello people!
+
+First project, trying out github
+using guide.
